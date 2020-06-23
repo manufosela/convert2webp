@@ -1,14 +1,14 @@
 {
   "name": "convert2webp",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Node script to convert all image files png, jpg and jpeg in webp file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "manufosela",
+  "license": "Apache-2.0",
   "dependencies": {
     "webp-converter": "^2.2.3"
   }
