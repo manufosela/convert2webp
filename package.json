@@ -1,6 +1,6 @@
 {
   "name": "convert2webp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node script to convert all image files png, jpg and jpeg in webp file",
   "main": "index.js",
   "scripts": {
