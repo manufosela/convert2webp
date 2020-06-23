@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const webp = require('webp-converter');
 const fs = require('fs');
 const path = require('path');
